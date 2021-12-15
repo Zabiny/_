@@ -1,4 +1,4 @@
-# pytorch-GeNet
+# torch_gnet
 
 An unofficial Pytorch implementation of https://arxiv.org/abs/1810.12348. Probably.
 
